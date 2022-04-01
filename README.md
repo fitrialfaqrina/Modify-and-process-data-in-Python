@@ -1,5 +1,6 @@
 # Modify-and-process-data-in-Python
-Can we modify and process data in python?
+Hello World, ready to learning basic Python?\
+Can we modify and process data in Python?
 
 # Use Case
 ## Use case summary 
